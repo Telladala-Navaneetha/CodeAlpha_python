@@ -1,0 +1,11 @@
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin <new-github-repo-url>
+git push -u origin main
+
+
+
+
+# if error occurs after that 
+git push origin master

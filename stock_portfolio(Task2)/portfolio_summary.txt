@@ -1,5 +1,0 @@
-Portfolio Summary
-====================
-AAPL: 3 shares ($540.00)
-TSLA: 2 shares ($500.00)
-Total Value: $1,040.00
